@@ -1,2 +1,2 @@
 1) recursion
-2) linkef list
+2) linked list
